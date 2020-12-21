@@ -41,7 +41,7 @@ export default {
 <style scoped lang="scss">
     .current {
         min-height: 400px;
-        background: #636969;
+        background: #697B92;
         display: flex;
         justify-content: center;
         align-items: center;
